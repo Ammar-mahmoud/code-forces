@@ -1,4 +1,1 @@
-
-for i in range(num_test):
-    print(arr_results[i])
-    
+ print(arr[arr.index(min[j])+1])
