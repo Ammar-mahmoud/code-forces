@@ -1,1 +1,1 @@
-1
+ cin >> n_input
