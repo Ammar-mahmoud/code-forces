@@ -1,1 +1,2 @@
- cin >> n_input
+if(lsum == 0)
+        // {
